@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Yiro13/Yiro13/output/snake.svg" alt="Snake animation" />
-
 ###
