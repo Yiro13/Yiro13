@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo"  />
@@ -14,13 +14,13 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47u1d17flqp3oylddwdk7ybaic5h63fen49f2zzkvk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="150" src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47u1d17flqp3oylddwdk7ybaic5h63fen49f2zzkvk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
