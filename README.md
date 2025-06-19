@@ -1,4 +1,4 @@
-<h2 align="left">Yahir Leo<br><br>📍México<br><br>Software Developer at Mars Rover UdeGSpace<br><br>I develop software and work with artificial intelligence, focusing on machine learning, data, backend development, and system optimization. I aim to build efficient, scalable, and well-structured solutions, applying technology to solve problems with precision and effectiveness.</h2>
+<h2 align="left">Yahir Leo<br><br>🚀Software Developer at Mars Rover UdeGspace🚀<br><br>💻I develop software and work with artificial intelligence, focusing on machine learning, data, backend development, and system optimization. I aim to build efficient, scalable, and well-structured solutions, applying technology to solve problems with precision and effectiveness.</h2>
 
 ###
 
