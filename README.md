@@ -1,4 +1,4 @@
-<h2 align="center">Yahir Leo<br><br>🚀Software Developer at Mars Rover UdeGspace<br><br>💻I develop software and work with artificial intelligence, focusing on machine learning, data, backend development, and system optimization. I aim to build efficient, scalable, and well-structured solutions, applying technology to solve problems with precision and effectiveness.</h2>
+<h2 align="center">Yahir Leo<br><br>🚀Software Developer at Mars Rover UdeGspace<br><br>💡I build cool stuff with AI and robotics — from ROS-based systems to machine learning pipelines. Most of my work is in Python, where I love mixing data, intelligence, and automation to make things actually *work better*. I'm also diving into TPF systems and exploring how large-scale infrastructure runs behind the scenes.<br><br>Always curious, always building.</h2>
 
 ###
 
