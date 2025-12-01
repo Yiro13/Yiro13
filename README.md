@@ -1,4 +1,4 @@
-<h2 align="center">🚀Software Developer at Mars Rover UdeGspace<br><br>💡I build cool stuff with AI and robotics — from ROS-based systems to machine learning pipelines. Most of my work is in Python, where I love mixing data, intelligence, and automation to make things actually *work better*. I'm also diving into TPF systems and exploring how large-scale infrastructure runs behind the scenes.<br><br>Always curious, always building.</h2>
+<h2 align="center">Always curious, always building</h2>
 
 ###
 
